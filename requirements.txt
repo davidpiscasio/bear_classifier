@@ -1,0 +1,4 @@
+jupyterlab
+fastai==2.5.4
+voila
+ipywidgets
